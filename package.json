@@ -1,0 +1,27 @@
+{
+  "name": "gosports",
+  "version": "1.0.0",
+  "description": "sports results and summaries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo091/mvp.git"
+  },
+  "keywords": [
+    "sports"
+  ],
+  "author": "Eduardo Urrutia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduardo091/mvp/issues"
+  },
+  "homepage": "https://github.com/Eduardo091/mvp#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.16.2",
+    "react": "^16.2.0"
+  }
+}
