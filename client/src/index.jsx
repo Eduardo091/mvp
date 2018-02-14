@@ -7,3 +7,4 @@ class APP extends React.Component{
     super(props)
   }
 }
+ReactDom.render(<App />, document.getElementById('app'))
