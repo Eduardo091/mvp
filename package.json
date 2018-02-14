@@ -27,5 +27,8 @@
     "mysql": "^2.15.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
   }
 }
